@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ccb0187-b22a-443b-8623-be935826e934" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_pl2/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_pl2/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +85,7 @@
       <workItem from="1608634133953" duration="709000" />
       <workItem from="1608714179966" duration="1255000" />
       <workItem from="1608796672480" duration="9328000" />
-      <workItem from="1608811191998" duration="3695000" />
+      <workItem from="1608811191998" duration="4526000" />
     </task>
     <servers />
   </component>
